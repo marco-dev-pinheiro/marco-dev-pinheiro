@@ -118,7 +118,6 @@ mindmap
       "Introdução à Engenharia de Prompts"
       "Conversando por Voz com ChatGPT e Whisper"
 
-        
 ```
 
 📅 Última atualização
