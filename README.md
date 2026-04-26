@@ -2,10 +2,9 @@
 #  Olá, seja bem vindo ! 👋
 Aqui voce vai encontrar projetos tecnicos de estudo organizado em repositorios
 
-```mermaid
-mindmap
-  root Mapa mental de Qualificaçoes
-    ...
+---
+title: Certificações de Marco Pinheiro
+---
 
 %%{init: {
   "theme": "base",
