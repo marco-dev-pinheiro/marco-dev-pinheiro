@@ -6,6 +6,7 @@ Sou **Marco Pinheiro** e aqui você encontrará **projetos técnicos, estudos pr
 🚀 Foco atual: **Python | IA Generativa | Dados | Cloud | Machine Learning | Automação**
 
 ---
+´´´mermaid
 
 # 🚀 Portfólio Técnico
 
@@ -107,6 +108,8 @@ mindmap
       NotebookLM
       ChatGPT + Whisper
       Aprendizado Acelerado
+
+  ´´´    
 
 📅 Última atualização
 
