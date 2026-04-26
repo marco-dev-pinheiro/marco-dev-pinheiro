@@ -10,15 +10,23 @@ Sou **Marco Pinheiro** e aqui você encontrará **projetos técnicos, estudos pr
 # 🚀 Portfólio Técnico
 
 ```mermaid
+com paleta de cores moderna
 %%{init: {
-  'theme': 'base',
-  'themeVariables': {
-    'primaryColor': '#1e293b',
-    'primaryTextColor': '#f8fafc',
-    'primaryBorderColor': '#38bdf8',
-    'lineColor': '#94a3b8',
-    'secondaryColor': '#0f172a',
-    'tertiaryColor': '#1e1b4b'
+  "theme": "base",
+  "themeVariables": {
+    "background": "#0b1120",
+    "primaryColor": "#111827",
+    "primaryTextColor": "#f8fafc",
+    "primaryBorderColor": "#38bdf8",
+    "lineColor": "#64748b",
+    "secondaryColor": "#1e293b",
+    "secondaryTextColor": "#e2e8f0",
+    "secondaryBorderColor": "#8b5cf6",
+    "tertiaryColor": "#0f172a",
+    "tertiaryTextColor": "#cbd5e1",
+    "tertiaryBorderColor": "#22d3ee",
+    "fontFamily": "Inter, Segoe UI, Roboto, sans-serif",
+    "fontSize": "16px"
   }
 }}%%
 mindmap
