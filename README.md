@@ -1,12 +1,14 @@
 
-#  Olá, Meu nome é Marco Pinheiro seja muito bem vindo fique a vontade para contribuir ou entrar em contato ! 👋
+#  Olá, seja bem vindo ! 👋
+Aqui voce vai encontrar projetos tecnicos de estudo organizado em repositorios
 
-## atualizando git hub 26/01/2026 em breve atualizaçoes de stack !!!!
+## atualizando git hub 26/04/2026 em breve atualizaçoes de stack !!!!
 
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=marco-dev-pinheiro&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## 🚀 Sobre mim
+
 
 
 
