@@ -72,6 +72,8 @@ mindmap
       Open_Source
       Notion
 
+```
+
 📅 Última atualização
 
 26/04/2026
