@@ -10,7 +10,6 @@ Sou **Marco Pinheiro** e aqui você encontrará **projetos técnicos, estudos pr
 # 🚀 Portfólio Técnico
 
 ```mermaid
-com paleta de cores moderna
 %%{init: {
   "theme": "base",
   "themeVariables": {
