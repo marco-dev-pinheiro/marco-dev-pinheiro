@@ -10,67 +10,50 @@ Sou **Marco Pinheiro** e aqui você encontrará **projetos técnicos, estudos pr
 # 🚀 Portfólio Técnico
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#1e293b',
+    'primaryTextColor': '#f8fafc',
+    'primaryBorderColor': '#38bdf8',
+    'lineColor': '#94a3b8',
+    'secondaryColor': '#0f172a',
+    'tertiaryColor': '#1e1b4b'
+  }
+}}%%
 mindmap
-  root((Marco Pinheiro<br/>Portfólio Técnico))
-
-    IA_e_IA_Generativa
-      Bootcamp_Bradesco_GenAI_e_Dados
-        Carga_Horária_52h
-      Engenharia_de_Prompt
-        Técnicas_Avançadas
-      Modelos_de_Linguagem
-        LLMs
-        NLP_PLN
-      Ferramentas
-        Copilot_SQL_Excel
-        NotebookLM
-        Whisper
-      Projetos
-        Chatbot_Financeiro
-        Assistente_IA
-
-    Machine_Learning
-      Fundamentos
-        SVM
-        Redes_Neurais
-        Classificação
-      Prática
-        Python_para_ML
-        Datasets
-
-    Data_Science_ETL
-      Bancos_de_Dados
-        SQL
-        NoSQL
-        Excel_para_SQL
-      ETL
-        Python_ETL
-        Power_Query
-        GenAI_em_Pipelines
-
-    Business_Intelligence
-      Power_BI
-        Dashboards
-        KPIs
-        Visualização
-
-    Python_Dev
-      Fundamentos
-        Estruturas_de_Dados
-        Strings
-      Lógica
-        Algoritmos
-        Pensamento_Computacional
-
-    AWS_Cloud
-      Infraestrutura
-      Computação
-      Redes
-
-    Ferramentas
-      Git_GitHub
-      Open_Source
-      Notion
+  root((Marco Pinheiro: Data, AI & UX))
+    Ciência de Dados e ML
+      Machine Learning
+        Algoritmos SVM e Genéticos
+        Redes Neurais Artificiais
+      Visão Computacional
+      NLP - Processamento de Linguagem Natural
+    IA Generativa
+      Bootcamp GenAI e Dados
+      Engenharia de Prompt
+      Modelos LLM e Chatbots
+      Whisper OpenAI e Voz
+    UX Avançada
+      Design Systems
+      Arquitetura de Informação
+      Usabilidade e Heurísticas
+      Prototipagem de Alta Fidelidade
+      UX Writing
+    Business Intelligence
+      Power BI Avançado
+        Dashboards Interativos
+        Visuais Estratégicos
+      KPIs e Métricas
+      Excel e Copilot
+    Engenharia de Dados
+      ETL Pipelines (Python/IA)
+      Bancos de Dados SQL e NoSQL
+      Cloud Computing (AWS)
+    Ferramentas e Carreira
+      Linguagem Python
+      Git e GitHub
+      Portfólio e Roadmap Notion
 
 ```
 
