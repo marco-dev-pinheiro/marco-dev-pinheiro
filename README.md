@@ -7,7 +7,6 @@ Sou **Marco Pinheiro** e aqui você encontrará **projetos técnicos, estudos pr
 
 
 ```mermaid
-# 🚀 Portfólio Técnico
 
 %%{init: {
   "theme": "dark",
@@ -107,9 +106,7 @@ mindmap
       NotebookLM
       ChatGPT + Whisper
       Aprendizado Acelerado
-
-  ´´´    
-
+```
 📅 Última atualização
 
 26/04/2026
