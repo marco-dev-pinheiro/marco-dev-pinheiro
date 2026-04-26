@@ -29,6 +29,7 @@ com paleta de cores moderna
     "fontSize": "16px"
   }
 }}%%
+
 mindmap
   root((Marco Pinheiro: Data, AI & UX))
     Ciência de Dados e ML
