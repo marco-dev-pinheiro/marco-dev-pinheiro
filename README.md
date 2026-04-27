@@ -107,7 +107,8 @@ mindmap
       ChatGPT + Whisper
       Aprendizado Acelerado
 ```
-📅 Última atualização
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marco%20Pinheiro&theme=cobalt&border_radius=4&locale=pt&date_format=j%20M%5B%20Y%5D&card_height=190)](https://git.io/streak-stats)
+
 
 26/04/2026
 🔄 Em breve novas stacks, projetos e certificações.
