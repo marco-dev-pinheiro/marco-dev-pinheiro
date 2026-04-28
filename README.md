@@ -9,15 +9,15 @@ Sou **Marco Pinheiro** e aqui você encontrará **projetos técnicos, estudos pr
 ```mermaid
 
 %%{init: {
-  "theme": "base",
+  "theme": "forest",
   "themeVariables": {
-    "background": "#0A1020",
+    "background": "#560085",
 
     "primaryColor": "#006A8A",
     "primaryTextColor": "#F8FAFC",
-    "primaryBorderColor": "#008F83",
+    "primaryBorderColor": "#19008A",
 
-    "lineColor": "#0050B3",
+    "lineColor": "#008F83",
 
     "secondaryColor": "#19008A",
     "secondaryTextColor": "#E2E8F0",
