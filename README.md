@@ -11,17 +11,22 @@ Sou **Marco Pinheiro** e aqui você encontrará **projetos técnicos, estudos pr
 %%{init: {
   "theme": "dark",
   "themeVariables": {
-    "background": "#020617",
-    "primaryColor": "#0f172a",
-    "primaryTextColor": "#f8fafc",
-    "primaryBorderColor": "#38bdf8",
-    "lineColor": "#475569",
-    "secondaryColor": "#111827",
-    "secondaryTextColor": "#e2e8f0",
-    "secondaryBorderColor": "#8b5cf6",
-    "tertiaryColor": "#1e293b",
-    "tertiaryTextColor": "#cbd5e1",
-    "tertiaryBorderColor": "#22d3ee",
+    "background": "#0A1020",
+
+    "primaryColor": "#006A8A",
+    "primaryTextColor": "#F8FAFC",
+    "primaryBorderColor": "#008F83",
+
+    "lineColor": "#0050B3",
+
+    "secondaryColor": "#19008A",
+    "secondaryTextColor": "#E2E8F0",
+    "secondaryBorderColor": "#560085",
+
+    "tertiaryColor": "#0F1C3D",
+    "tertiaryTextColor": "#CBD5E1",
+    "tertiaryBorderColor": "#006A8A",
+
     "fontFamily": "Inter, Segoe UI, Arial",
     "fontSize": "15px"
   }
