@@ -9,7 +9,7 @@ Sou **Marco Pinheiro** e aqui você encontrará **projetos técnicos, estudos pr
 ```mermaid
 
 %%{init: {
-  "theme": "dark",
+  "theme": "base",
   "themeVariables": {
     "background": "#0A1020",
 
