@@ -112,21 +112,18 @@ mindmap
       ChatGPT + Whisper
       Aprendizado Acelerado
 ```
-[![GitHub Streak](https://streak-stats.demolab.com?user=%20marco-dev-pinheiro&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
-
-26/04/2026
-🔄 Em breve novas stacks, projetos e certificações.
 
 📈 Atividade no GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=%20marco-dev-pinheiro&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 🚀 Sobre mim
 
 🎯 Estudante focado em crescimento técnico acelerado.
 💡 Buscando domínio prático em tecnologia moderna.
-📚 Aprendizado contínuo com foco em mercado real.
-🛠 Construindo projetos para portfólio e empregabilidade.
+📚 Aprendizado contínuo .
+🛠 Construindo projetos .
 🌎 Objetivo: atuar em grandes empresas de tecnologia.
 
 🔗 Redes e Contato
