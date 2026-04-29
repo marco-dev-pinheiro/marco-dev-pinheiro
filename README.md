@@ -112,7 +112,8 @@ mindmap
       ChatGPT + Whisper
       Aprendizado Acelerado
 ```
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marco%20Pinheiro&theme=neon&border_radius=4&locale=pt&date_format=j%20M%5B%20Y%5D&card_height=190&sideLabels=2E88DB&background=23%2C9964FF%2C032062&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=%20marco-dev-pinheiro&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 
 26/04/2026
